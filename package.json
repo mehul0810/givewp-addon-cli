@@ -1,0 +1,12 @@
+{
+  "name": "givewp-addon-cli",
+  "version": "0.0.1",
+  "description": "Generate dynamic boilerplate for GiveWP add-on for quick development",
+  "bin": {
+    "givewp-addon-cli": "index.js",
+    "gwpac": "index.js"
+  },
+  "devDependencies": {
+    "copy-template-dir": "^1.4.0"
+  }
+}
